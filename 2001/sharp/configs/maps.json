@@ -4823,6 +4823,15 @@
     "requiredOnline": -1,
     "requiredPlayers": 40
   },
+  "ze_test": {
+    "admin": false,
+    "certainTimes": [-1],
+    "cooldown": 100,
+    "nomination": true,
+    "price": 1200,
+    "requiredOnline": -1,
+    "requiredPlayers": 40
+  },
   "ze_texturescape_cs2_l": {
     "admin": false,
     "certainTimes": [-1],
